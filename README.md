@@ -331,7 +331,7 @@ Full interactive docs at **`/docs`**.
 | 🚜 | **Uday Pratap Singh** | Co-founder & COO | Field pilots, installation, support, work with farmers |
 | 📈 | **Yatharth Raghuvanshi** | Co-founder & Head of Business | Finance, pricing, partnerships, marketing |
 
-📍 HCST, Mathura, Uttar Pradesh &nbsp;·&nbsp; ✉️ [tarunsaxena923@gmail.com](mailto:tarunsaxena923@gmail.com)
+📍 HCST, Mathura, Uttar Pradesh &nbsp;·&nbsp; 
 
 </div>
 
